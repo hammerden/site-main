@@ -1,0 +1,4 @@
+baseURL = 'https://hammerden.com/'
+languageCode = 'en-us'
+title = 'Hammerden'
+theme = 'ananke'
